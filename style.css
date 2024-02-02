@@ -44,6 +44,16 @@ h5 {
     text-align: center;
 }
 
-h5 > img {
-    width: 400px;
+h5 > div > img {
+    width: 50%;
+    height: 50%;
+}
+
+h5 > button {
+    font-family:monospace;
+    font-style: italic;
+    background-color: #379683;
+    color: #EDF5E1;
+    width: 250px;
+    height: 35px;
 }
